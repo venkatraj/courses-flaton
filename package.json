@@ -1,0 +1,22 @@
+{
+  "name": "flaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatraj/courses-flaton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatraj/courses-flaton/issues"
+  },
+  "homepage": "https://github.com/venkatraj/courses-flaton#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2"
+  }
+}
